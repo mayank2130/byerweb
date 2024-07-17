@@ -104,7 +104,7 @@ const SEOSettings = () => {
               <p className="font-medium">Sitemap</p>
               <p className="text-sm text-slate-500">
                 Sitemap.xml is used by search engines like Google and Bing to
-                index your site so that your store's pages appear in search
+                index your site so that your store pages appear in search
                 results.
               </p>
             </div>
