@@ -67,7 +67,7 @@ const SEOSettings = () => {
               <span className="text-sm text-slate-500">
                 When you share a link to your store on social media, an image is
                 usually shown in your post. This one will be used if another
-                relevant image can't be found.
+                relevant image can&apos;t be found.
               </span>
             </div>
             <Card className="border shadow-none">
